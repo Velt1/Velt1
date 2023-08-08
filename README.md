@@ -7,8 +7,8 @@
 ## 🌍 Where to find me:
 
 - 🔊 [Discord](https://discordapp.com/users/max_ln)
-- 🎮 [Portfolio](pimpyourcode.store)
-- 🐦 [Twitter](x.com/Velt_pyc)
+- 🎮 [Portfolio](https://pimpyourcode.store)
+- 🐦 [Twitter](https://x.com/Velt_pyc)
 
 ## 🚀 Skills and Tools:
 
@@ -19,7 +19,7 @@
 ## 🕹 Projects I'm Proud Of:
 
 1. **PimpYourCode** - Developed a game that creates a new way of learning how to code.
-    - [Repository Link](pimpyourcode.store)
+    - [Repository Link](https://pimpyourcode.store)
    
 2. **COMING SOON**
 
