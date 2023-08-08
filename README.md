@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Max!
 
-![Banner](banner.jpeg)
+![Banner](banner.gif)
 
 🔧 I specialize in **backend development**, with a unique blend of expertise in **robotics** and **game development**. Whether it's designing the backbone of an intricate game world or giving life to robots, I'm all in!
 
