@@ -29,7 +29,7 @@
 
 ## 💬 Let's Connect:
 
-Always open to collaborate or just chat about tech, robotics or gaming. Feel free to shoot me a [message](web@pimpyourcode.com) or drop a comment on one of my repos.
+Always open to collaborate or just chat about tech, robotics or gaming. Feel free to shoot me a [message](mailto:web@pimpyourcode.com) or drop a comment on one of my repos.
 
 ---
 🔥 Remember: The future is written by those who dare to code!
