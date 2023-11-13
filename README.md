@@ -12,7 +12,7 @@
 
 ## 🚀 Skills and Tools:
 
-- **Languages:** Rust, Go, Python, C#/C++
+- **Languages:** Rust, Go, Python, C#
 - **Frameworks/Libraries:** ROS (Robot Operating System), Unity
 - **Tools:** Git, Docker
 
