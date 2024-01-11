@@ -19,7 +19,7 @@
 ## 🕹 Projects I'm Proud Of:
 
 1. **PimpYourCode** - Developed a game that creates a new way of learning how to code.
-    - [Project Link](https://pimpyourcode.store)
+    - [Project Link](https://pimpyourcode.com)
    
 2. **COMING SOON**
 
