@@ -7,7 +7,7 @@
 ## 🌍 Where to find me:
 
 - 🔊 [Discord](https://discordapp.com/users/max_ln)
-- 🎮 [Portfolio](https://pimpyourcode.store)
+- 🎮 [Portfolio](https://pimpyourcode.com)
 - 🐦 [Twitter](https://x.com/Velt_pyc)
 
 ## 🚀 Skills and Tools:
